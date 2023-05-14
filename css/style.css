@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+h1{
+   color: gray; 
+}
+.book{
+    color: black;
+   font-weight: bold;
+}
+.btn-info{
+    color: white; 
+}
+.btn-info:hover {
+background-color: rgb(63, 124, 124);
+color: white;
+}
+h6{
+color: gray;
+}
